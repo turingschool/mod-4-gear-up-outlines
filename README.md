@@ -20,3 +20,7 @@ As you go into the job hunt, being able to talk about ways you have lead in the 
   4) Name your md file with your TOPIC and LAST NAME (ex.   Microaggressions_Hickmann.md)
 
   4)  Submit a PR to the turingschool/mod-4-gear-up-outlines repo, tag EM
+
+
+Here is the link for presentation 
+https://docs.google.com/presentation/d/1ltcroqUF5-tibqfoRvn80ZrScmfeSlKcAQRPWVbz9W0/edit?usp=sharing
