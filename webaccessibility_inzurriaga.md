@@ -22,7 +22,7 @@ As you go into the job hunt, being able to talk about ways you have lead in the 
   4)  Submit a PR to the turingschool/mod-4-gear-up-outlines repo, tag EM
 
 ## outline 
-Link to your slide deck (google slides recommended): https://docs.google.com/presentation/d/1FlUHCwraeS-vVNsfB22_kKq9-dPIyVR3cJ-csmFHVE4/edit?usp=sharing
+Link to your slide deck (google slides recommended): https://docs.google.com/presentation/d/1CHrT2sHY-SBCa49JVVIVpj5zwvci3nAk6y71KhpvC4E/edit?usp=sharing
 
 Name of your Gear Up Presentation: web accessibility
 
@@ -42,3 +42,6 @@ Write 2-3 discussion questions you might want people to discuss after your prese
 3. other methods they can add on to the ada standard
 
 Anything additional you are adding to your talk? nope
+
+## feedback 
+i had justin T. as my partner for the slide share and he had no really big negative feedback for me just mention more ways to make a application more accessible that i will add to my slides. 
