@@ -18,17 +18,17 @@
 
 ### Each presentation should include 5-8 minutes of polished content with slides. 
   
-  Link to your slide deck (google slides recommended): __________________
+  Link to your slide deck (google slides recommended): ________https://docs.google.com/presentation/d/1h6sQAAek8rENzWTgLIl0HUug3UOVMulc3sN1OeUWOpI/edit?usp=sharing__________
   
-  Name of your Gear Up Presentation: ______________________
+  Name of your Gear Up Presentation: ___________The Economics of Inclusion___________
   
   Talking points for your presentation:
 
   
   2-3 discussion questions you might want people to discuss after your presentation:
-    1.
-    2.
-    3.
+    1. what examples of an inclusive workforce helping a company have you seen?
+    2. what examples of an non-inclusive workforce hurting a company have you seen?
+    3. what unforeseen benefits could you see helping a company by being more inclusive when hiring new employees
     
 Checklist: 
 
