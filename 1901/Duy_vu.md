@@ -44,4 +44,4 @@ Checklist:
 - [ ] Did you implement any of the feedback that was given to you about this talk?
 
 
-these are my currmt slides : https://docs.google.com/presentation/d/1stZcGnHPlsnDaF37f5tvWp6bTK5DS1jh8Z_DeNqq88M/edit#slide=id.g5ccd5f3c3e_0_268
+these are my currmt slides : https://docs.google.com/presentation/d/16ZbHZC80NsxiRjFZjF-ETVt4kHg99XElc1PecKdLJSw/edit#slide=id.g5d29551861_0_84
