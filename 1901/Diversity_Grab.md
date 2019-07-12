@@ -1,3 +1,5 @@
+ONLY CHANGED SLIDES
+
 Mod 4 Gear Up Outline Template
 Directions
 Fork this repo
