@@ -17,6 +17,6 @@ Talking points for your presentation:
 - [x] Did you include an introduction of yourself?
 - [x] Did you include a connection to gear up and why this talk is important to you?
 - [x] Do you have engaging content?
-- [ ] Is your talk between 5-7 minutes?
+- [x] Is your talk between 5-7 minutes?
 - [x] Do you have at least three discussion questions?
 - [x] Did you implement any of the feedback that was given to you about this talk?
