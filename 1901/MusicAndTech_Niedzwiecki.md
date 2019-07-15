@@ -1,4 +1,6 @@
-Link to your slide deck (google slides recommended): https://docs.google.com/presentation/d/18yhZ4dj3_x40BQYH2O9hILjMrhh5dgq3pDAkuWE51Rs/edit#slide=id.g5ccdb443a1_1_20
+Link to your slide deck (google slides recommended): 
+
+https://docs.google.com/presentation/d/18yhZ4dj3_x40BQYH2O9hILjMrhh5dgq3pDAkuWE51Rs/edit#slide=id.g5ccdb443a1_1_0
 
 Name of your Gear Up Presentation: Music and Tech (I will have a catchier title)
 
@@ -27,3 +29,6 @@ Checklist:
  Is your talk between 5-7 minutes?
  Do you have at least three discussion questions?
  Did you implement any of the feedback that was given to you about this talk?
+
+
+
