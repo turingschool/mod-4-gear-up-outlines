@@ -7,6 +7,14 @@
   Name of your Gear Up Presentation: Neurodiversity in Tech
   
   Talking points for your presentation:
+    - About me, why I chose this topic
+    - What is Neurodiversity?
+    - Autism Spectrum Disorder - Symptoms
+    - Struggles
+    - Where Aspies Excel
+    - How to Work with Us
+    - Discussion Questions
+    (See slide deck for details on each topic) 
   
   TODO
   
@@ -19,9 +27,9 @@ Checklist:
 
 - [x] Does your Gear Up have a title?
 - [x] Do you have a slide deck that has permission for ANYONE WITH THE LINK to view it?
-- [ ] Did you include an introduction of yourself?
-- [ ] Did you include a connection to gear up and why this talk is important to you?
-- [ ] Do you have engaging content?
-- [ ] Is your talk between 5-7 minutes?
+- [x] Did you include an introduction of yourself?
+- [x] Did you include a connection to gear up and why this talk is important to you?
+- [x] Do you have engaging content?
+- [x] Is your talk between 5-7 minutes?
 - [x] Do you have at least three discussion questions?
 - [N/A] Did you implement any of the feedback that was given to you about this talk?
