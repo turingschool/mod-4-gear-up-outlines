@@ -27,3 +27,6 @@ Checklist:
  Is your talk between 5-7 minutes?
  Do you have at least three discussion questions?
  Did you implement any of the feedback that was given to you about this talk?
+
+
+<img width="1114" alt="Screen Shot 2019-07-15 at 10 30 09 PM" src="https://user-images.githubusercontent.com/40923979/61266312-8ad5cb00-a750-11e9-8cfd-abe093fbe837.png">
